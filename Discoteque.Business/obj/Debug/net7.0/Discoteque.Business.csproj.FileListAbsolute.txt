@@ -10,3 +10,6 @@
 /home/eduardo/Documentos/csharp/bootcamp/Discoteque/Discoteque.Business/obj/Debug/net7.0/refint/Discoteque.Business.dll
 /home/eduardo/Documentos/csharp/bootcamp/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.pdb
 /home/eduardo/Documentos/csharp/bootcamp/Discoteque/Discoteque.Business/obj/Debug/net7.0/ref/Discoteque.Business.dll
+/home/eduardo/Documentos/csharp/bootcamp/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Data.dll
+/home/eduardo/Documentos/csharp/bootcamp/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Data.pdb
+/home/eduardo/Documentos/csharp/bootcamp/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.CopyComplete
